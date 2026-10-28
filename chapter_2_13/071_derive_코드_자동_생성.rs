@@ -1,0 +1,5 @@
+// Chapter: chapter 2-13장. 제네릭(Generic)과 라이프타임과 트레잇(Trait)
+// Section: derive : 코드 자동 생성
+// Source: src/chapter_2_13.md
+
+println!("{:?}", point);
