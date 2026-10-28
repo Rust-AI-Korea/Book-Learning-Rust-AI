@@ -1,7 +1,7 @@
 # AI 개발자를 위한 러스트 프로그래밍
 
 <p align="center">
-  <img src="./book-cover.png" alt="AI 개발자를 위한 러스트 프로그래밍 표지" width="520">
+  <img src="./book-cover.jpg" alt="AI 개발자를 위한 러스트 프로그래밍 표지" width="520">
 </p>
 
 > 성능의 깊이, 안전성의 기준.  
